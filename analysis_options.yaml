@@ -1,0 +1,21 @@
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+
+  rules:
+    avoid_field_initializers_in_const_classes: true
+    constant_identifier_names: true
+    avoid_unused_constructor_parameters: true
+    empty_constructor_bodies: true
+    prefer_const_constructors: true
+    prefer_const_constructors_in_immutables: true
+    prefer_const_declarations: true
+    unnecessary_const: true
+    use_key_in_widget_constructors: true
+    use_named_constants: true
+    always_declare_return_types: true
+    always_specify_types: true
+    annotate_overrides: true
+    avoid_unnecessary_containers: true
+

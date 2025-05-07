@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - geo_fencing (0.0.1):
+    - Flutter
+  - integration_test (0.0.1):
+    - Flutter
+  - sqflite_darwin (0.0.4):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - geo_fencing (from `.symlinks/plugins/geo_fencing/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - sqflite_darwin (from `.symlinks/plugins/sqflite_darwin/darwin`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  geo_fencing:
+    :path: ".symlinks/plugins/geo_fencing/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  sqflite_darwin:
+    :path: ".symlinks/plugins/sqflite_darwin/darwin"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  geo_fencing: 2b443bb40926c2dd551427619637cc6b1de51306
+  integration_test: 252f60fa39af5e17c3aa9899d35d908a0721b573
+  sqflite_darwin: 5a7236e3b501866c1c9befc6771dfd73ffb8702d
+
+PODFILE CHECKSUM: 20e260c9bb3f61194c661a4ba028da86e4f3ed96
+
+COCOAPODS: 1.16.2
